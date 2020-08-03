@@ -80,15 +80,16 @@ C:\Users\lorna\source\repos\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
 C:\Users\lorna\source\repos\ContosoUniversity\bin\Newtonsoft.Json.xml
 C:\Users\lorna\source\repos\ContosoUniversity\bin\Antlr3.Runtime.pdb
 C:\Users\lorna\source\repos\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\lorna\source\repos\ContosoUniversity\obj\Debug\ContosoUniversity.csprojAssemblyReference.cache
 C:\Users\lorna\source\repos\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
 C:\Users\lorna\source\repos\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
 C:\Users\lorna\source\repos\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
 C:\Users\lorna\source\repos\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
 C:\Users\lorna\source\repos\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.DepartmentSP.resources
 C:\Users\lorna\source\repos\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Rowversion.resources
+C:\Users\lorna\source\repos\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Inheritance.resources
 C:\Users\lorna\source\repos\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.cache
 C:\Users\lorna\source\repos\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.CoreCompileInputs.cache
 C:\Users\lorna\source\repos\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.CopyComplete
 C:\Users\lorna\source\repos\ContosoUniversity\obj\Debug\ContosoUniversity.dll
 C:\Users\lorna\source\repos\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\Users\lorna\source\repos\ContosoUniversity\obj\Debug\ContosoUniversity.csprojAssemblyReference.cache
