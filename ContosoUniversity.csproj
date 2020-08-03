@@ -134,6 +134,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\CourseController.cs" />
+    <Compile Include="Controllers\DepartmentController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\InstructorController.cs" />
     <Compile Include="Controllers\StudentController.cs" />
@@ -163,12 +164,21 @@
     <Compile Include="Migrations\202007300906294_ComplexDataModel.designer.cs">
       <DependentUpon>202007300906294_ComplexDataModel.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202008021243255_DepartmentSP.cs" />
+    <Compile Include="Migrations\202008021243255_DepartmentSP.designer.cs">
+      <DependentUpon>202008021243255_DepartmentSP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202008031017290_Rowversion.cs" />
+    <Compile Include="Migrations\202008031017290_Rowversion.designer.cs">
+      <DependentUpon>202008031017290_Rowversion.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Course.cs" />
     <Compile Include="Models\Department.cs" />
     <Compile Include="Models\Enrollment.cs" />
     <Compile Include="Models\Instructor.cs" />
     <Compile Include="Models\OfficeAssignment.cs" />
+    <Compile Include="ViewModels\AssignedCourseData.cs" />
     <Compile Include="ViewModels\EnrollmentDateGroup.cs" />
     <Compile Include="Models\Student.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -226,6 +236,11 @@
     <Content Include="Views\Instructor\Details.cshtml" />
     <Content Include="Views\Instructor\Edit.cshtml" />
     <Content Include="Views\Instructor\Index.cshtml" />
+    <Content Include="Views\Department\Create.cshtml" />
+    <Content Include="Views\Department\Delete.cshtml" />
+    <Content Include="Views\Department\Details.cshtml" />
+    <Content Include="Views\Department\Edit.cshtml" />
+    <Content Include="Views\Department\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -255,6 +270,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202007300906294_ComplexDataModel.resx">
       <DependentUpon>202007300906294_ComplexDataModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202008021243255_DepartmentSP.resx">
+      <DependentUpon>202008021243255_DepartmentSP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202008031017290_Rowversion.resx">
+      <DependentUpon>202008031017290_Rowversion.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
